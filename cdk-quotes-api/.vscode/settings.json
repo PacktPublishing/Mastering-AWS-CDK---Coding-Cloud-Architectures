@@ -1,0 +1,11 @@
+{
+    "serverlessConsole.services": [
+        {
+            "type": "dynamodb",
+            "title": "CdkQuotesApiStack-quotestbl6EE10626-9W63MLNHXMZE",
+            "tableName": "CdkQuotesApiStack-quotestbl6EE10626-9W63MLNHXMZE",
+            "awsProfile": "paulo-admin",
+            "region": "us-west-2"
+        }
+    ]
+}
